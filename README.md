@@ -23,7 +23,7 @@ Ensure you have Docker installed on your system before you begin. If not, you ca
 
 1. **Use the Github Template:**
 
-   Click on the `Use this template` button to create a new repository using this template.
+   Click on the [`Use this template`](https://github.com/new?template_name=dashboard&template_owner=zuygui) button to create a new repository using this template.
 
 2. **Clone the Repository:**
 
